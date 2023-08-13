@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahad2221
 - 👀 I’m interested in Full Stack Development and Blockchain
-- 🌱 I’m currently learning Front end development
+- 🌱 I’m currently learning Python/Back end development
 - 💞️ I’m looking to collaborate on open source projects, first time/beginner projects.
 - 📫 How to reach me: email - fahad-2221@hotmail.co.uk
 
