@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahad2221
-- 👀 I’m interested in Full Stack Development and Blockchain
-- 🌱 I’m currently learning Python/Back end development
+- 👀 I’m interested in Full Stack Development and Generative AI
+- 🌱 I’m currently learning to create a full stack application leveraging Gen AI in a chatbot
 - 💞️ I’m looking to collaborate on open source projects, first time/beginner projects.
 - 📫 How to reach me: email - fahad-2221@hotmail.co.uk
 
